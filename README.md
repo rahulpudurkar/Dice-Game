@@ -1,4 +1,4 @@
-# mydicegame
+# Dice Game
 
 A new Flutter project.
 
